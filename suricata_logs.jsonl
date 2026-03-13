@@ -1,0 +1,5 @@
+{"timestamp":"2025-03-10T10:00:01.123456+0000","src_ip":"8.8.8.8","dest_ip":"192.168.1.1","proto":"TCP","app_proto":"dns"}
+{"timestamp":"2025-03-10T10:00:02.234567+0000","src_ip":"1.1.1.1","dest_ip":"192.168.1.1","proto":"TCP","app_proto":"http"}
+{"timestamp":"2025-03-10T10:00:03.345678+0000","src_ip":"185.130.5.133","dest_ip":"192.168.1.1","proto":"TCP","app_proto":"ssl"}
+{"timestamp":"2025-03-10T10:00:04.456789+0000","src_ip":"91.240.118.77","dest_ip":"192.168.1.1","proto":"TCP","app_proto":"http"}
+{"timestamp":"2025-03-10T10:00:05.567890+0000","src_ip":"45.155.205.233","dest_ip":"192.168.1.1","proto":"TCP","app_proto":"dns"}
